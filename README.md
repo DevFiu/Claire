@@ -36,7 +36,7 @@ The toolkit will use the following technologies:
 
 **Project progress**
 
-The project is currently under development and is expected to be released in October 2024.
+The project is currently under development and is expected to be released in November 2024.
 
 **Contribution**
 
