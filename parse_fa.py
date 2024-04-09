@@ -20,7 +20,8 @@ Functions:
 6. get_sequence_by_id(fasta_file: str, sequence_id: Optional[str] = None, start: Optional[int] = None, end: Optional[int] = None, id_output_file: Optional[str] = None, delimiter: str = '\t', columns: Optional[List[int]] = None, write_sequence: bool = True) -> None:
     Get sequence(s) from a FASTA file by ID(s).
 
- Example usage:
+Example usage:
+
 target_ID = "id_name"
 
 # Write only the target ID and its sequence
